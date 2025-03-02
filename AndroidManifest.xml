@@ -2,13 +2,10 @@
 <manifest
     package="aenu.aps3e"
     xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Permite que app edite contenido de almacenamiento compartido. -->
     <uses-permission
         android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <!-- Permite que app lea contenido de almacenamiento compartido. -->
     <uses-permission
         android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <!-- Permite que la aplicación cree sockets de red y utilice protocolos de red personalizados. El navegador y otras aplicaciones proporcionan los medios necesarios para el envío de datos a Internet, por lo que no hace falta utilizar este permiso para eso. -->
     <uses-permission
         android:name="android.permission.INTERNET" />
     <application
