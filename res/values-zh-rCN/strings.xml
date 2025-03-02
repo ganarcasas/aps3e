@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">关于</string>
+    <string name="app_name">aps3e</string>
+    <string name="delete">删除</string>
+    <string name="empty_game_list">游戏列表为空</string>
+    <string name="firmware_not_install">固件未安装</string>
+    <string name="gratitude">鸣谢</string>
+    <string name="install_firmware">安装固件</string>
+    <string name="install_game">安装 ISO/PKG</string>
+    <string name="installing_firmware">安装固件中...</string>
+    <string name="installing_game">安装游戏中...</string>
+    <string name="key_mappers">按键映射</string>
+    <string name="keymapper_circle">圆</string>
+    <string name="keymapper_cross">叉</string>
+    <string name="keymapper_d">下</string>
+    <string name="keymapper_l">左</string>
+    <string name="keymapper_l1">L1</string>
+    <string name="keymapper_l2">L2</string>
+    <string name="keymapper_l3">L3</string>
+    <string name="keymapper_lsd">下(左摇杆)</string>
+    <string name="keymapper_lsl">左(左摇杆)</string>
+    <string name="keymapper_lsr">右(左摇杆)</string>
+    <string name="keymapper_lsu">上(左摇杆)</string>
+    <string name="keymapper_ps">PS</string>
+    <string name="keymapper_r">右</string>
+    <string name="keymapper_r1">R1</string>
+    <string name="keymapper_r2">R2</string>
+    <string name="keymapper_r3">R3</string>
+    <string name="keymapper_rsd">下(右摇杆)</string>
+    <string name="keymapper_rsl">左(右摇杆)</string>
+    <string name="keymapper_rsr">右(右摇杆)</string>
+    <string name="keymapper_rsu">上(右摇杆)</string>
+    <string name="keymapper_select">选择</string>
+    <string name="keymapper_square">方框</string>
+    <string name="keymapper_start">开始</string>
+    <string name="keymapper_triangle">三角</string>
+    <string name="keymapper_u">上</string>
+    <string name="refresh_list">刷新列表</string>
+    <string name="request_title_INSTALL_FIRMWARE">选择固件(PS3UPDAT.PUP)</string>
+    <string name="request_title_INSTALL_GAME">选择一个PS3 ISO或PKG文件</string>
+    <string name="select_game">选择游戏</string>
+    <string name="update_log">更新日志</string>
+    <string name="virtual_pad_edit">虚拟键盘编辑</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <aenu.aps3e.GameFrameView
+        android:id="@id/emulator_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    <org.vita3k.emulator.overlay.InputOverlay
+        android:id="@id/game_pad"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</FrameLayout>

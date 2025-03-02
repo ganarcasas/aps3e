@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="button_o" />
+    <item type="id" name="button_select" />
+    <item type="id" name="button_square" />
+    <item type="id" name="button_start" />
+    <item type="id" name="button_triangle" />
+    <item type="id" name="button_x" />
+    <item type="id" name="emulator_view" />
+    <item type="id" name="file_icon" />
+    <item type="id" name="file_tag" />
+    <item type="id" name="game_category" />
+    <item type="id" name="game_icon" />
+    <item type="id" name="game_list" />
+    <item type="id" name="game_list_is_empty" />
+    <item type="id" name="game_name" />
+    <item type="id" name="game_pad" />
+    <item type="id" name="game_serial" />
+    <item type="id" name="game_version" />
+    <item type="id" name="goto_parent_dir" />
+    <item type="id" name="list_navigation" />
+    <item type="id" name="list_path_show" />
+    <item type="id" name="list_view" />
+    <item type="id" name="menu_about" />
+    <item type="id" name="menu_gratitude" />
+    <item type="id" name="menu_install_firmware" />
+    <item type="id" name="menu_install_game" />
+    <item type="id" name="menu_key_mappers" />
+    <item type="id" name="menu_refresh_list" />
+    <item type="id" name="menu_update_log" />
+    <item type="id" name="menu_virtual_pad_edit" />
+    <item type="id" name="pad_down" />
+    <item type="id" name="pad_left" />
+    <item type="id" name="pad_no_use_lb" />
+    <item type="id" name="pad_no_use_rb" />
+    <item type="id" name="pad_right" />
+    <item type="id" name="pad_up" />
+</resources>

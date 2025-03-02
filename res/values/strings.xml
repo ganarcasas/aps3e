@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="app_name">aps3e</string>
+    <string name="delete">Delete</string>
+    <string name="empty_game_list">The game list is empty</string>
+    <string name="firmware_not_install">firmware not install</string>
+    <string name="gratitude">Gratitude</string>
+    <string name="install_firmware">Install Firmware</string>
+    <string name="install_game">Install ISO/PKG</string>
+    <string name="installing_firmware">Installing Firmware...</string>
+    <string name="installing_game">Installing Game...</string>
+    <string name="key_mappers">Key Mappers</string>
+    <string name="keymapper_circle">circle</string>
+    <string name="keymapper_cross">cross</string>
+    <string name="keymapper_d">down</string>
+    <string name="keymapper_l">left</string>
+    <string name="keymapper_l1">L1</string>
+    <string name="keymapper_l2">L2</string>
+    <string name="keymapper_l3">L3</string>
+    <string name="keymapper_lsd">down (Left joystick)</string>
+    <string name="keymapper_lsl">left (Left joystick)</string>
+    <string name="keymapper_lsr">right (Left joystick)</string>
+    <string name="keymapper_lsu">up (Left joystick)</string>
+    <string name="keymapper_ps">PS</string>
+    <string name="keymapper_r">right</string>
+    <string name="keymapper_r1">R1</string>
+    <string name="keymapper_r2">R2</string>
+    <string name="keymapper_r3">R3</string>
+    <string name="keymapper_rsd">down (Right joystick)</string>
+    <string name="keymapper_rsl">left (Right joystick)</string>
+    <string name="keymapper_rsr">right (Right joystick)</string>
+    <string name="keymapper_rsu">up (Right joystick)</string>
+    <string name="keymapper_select">select</string>
+    <string name="keymapper_square">square</string>
+    <string name="keymapper_start">start</string>
+    <string name="keymapper_triangle">triangle</string>
+    <string name="keymapper_u">up</string>
+    <string name="refresh_list">Refresh List</string>
+    <string name="request_title_INSTALL_FIRMWARE">Select Firmware(PS3UPDAT.PUP)</string>
+    <string name="request_title_INSTALL_GAME">Select a PS3 ISO or PKG</string>
+    <string name="select_game">Select Game</string>
+    <string name="update_log">Update Log</string>
+    <string name="virtual_pad_edit">VirtualPadEdit</string>
+</resources>

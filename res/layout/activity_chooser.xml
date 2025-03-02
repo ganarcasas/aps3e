@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:id="@id/list_navigation"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:id="@id/goto_parent_dir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_goto_parent_dir"
+            android:maxHeight="32.0dip"
+            android:layout_alignParentRight="true" />
+        <TextView
+            android:textAppearance="?android:textAppearanceMedium"
+            android:id="@id/list_path_show"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/goto_parent_dir"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <ListView
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:orientation="vertical"
+        android:id="@id/list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:drawSelectorOnTop="false"
+        android:fastScrollEnabled="true" />
+</LinearLayout>
