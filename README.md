@@ -25,4 +25,4 @@ A free PlayStation 3 emulator for Android devices,based on [RPCS3](https://githu
 This emulator is intended for educational purposes only. Users must comply with all applicable laws regarding game ROM ownership and usage. The developer assumes no responsibility for misuse.
 
 ## Contact  
-📧 GitHub Issues (English/Chinese): https://github.com/aenu/ganarcasas/issues  
+📧 GitHub Issues (English/Chinese): https://github.com/ganarcasas/aps3e/issues  
