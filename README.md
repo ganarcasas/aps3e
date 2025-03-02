@@ -26,3 +26,8 @@ This emulator is intended for educational purposes only. Users must comply with 
 
 ## Contact  
 📧 GitHub Issues (English/Chinese): https://github.com/ganarcasas/aps3e/issues  
+
+## Upcoming Features (Unofficial)
+- [ ] Full English Language Support
+- [ ] Spanish Language Support
+- [ ] Updates to reduce vulnerability
